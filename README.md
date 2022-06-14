@@ -9,15 +9,11 @@
           <li> Dias da semana seguidos de suas respectivas tarefas. </li>
           </ul>    
   <h2> ⚙ | Linguagens e Ferramentas:  </h2>
-  <h3>Linguagem: </h3> 
   <ul>
    <li> HTML5 <img align="center" alt="Lays-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </li>
       <li> CSS3 <img align="center" alt="Lays-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </li>
+       <li> Visual Studio Code <img align="center" alt="VS_Code" width="40" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </li>
 </ul>
-   <h3>Feramenta: </h3>
-   <ul>
-    <li> Visual Studio Code <img align="center" alt="VS_Code" width="40" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </li>
-  </ul>
   
   
   <h2> 🙋🏻‍♀️ | Author: </h2>
